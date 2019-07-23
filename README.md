@@ -1,1 +1,1 @@
-"#Mock website for Prerender.io testing" 
+# Mock website for Prerender.io testing
